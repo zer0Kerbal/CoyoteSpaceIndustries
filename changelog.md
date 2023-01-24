@@ -28,7 +28,8 @@
   * uses assets from SpaceY Lifters, see Attributions.md for details
 * Create
   * HeroLogo
-* closes #26 - Create HeroLogo.png
+* closes #6 - Create HeroLogo.png
+* closes #26 - Create Agency
 
 ### Localization
 
@@ -36,9 +37,9 @@
   * <en-us.cfg>
   * [readme.md] v2.1.2.0
   * [quickstart.md] v1.0.1.1
-* closes #25 - Create Localization directory and contents
-* updates #6 - Localization Master
-* closes #7 - English <en-us.cfg>
+* closes #7 - Create Localization directory and contents
+* closes #9 - English <en-us.cfg>
+* updates #8 - Localization - Master
 
 ### docs/
 
@@ -51,14 +52,14 @@
   * [Localizations.md] v1.1.7.0
   * [Notices.md] v1.0.1.0
   * [Why.md] v1.1.0.0
-* closes #24 - Create GitHub Pages
+* closes #5 - Create GitHub Pages
 
 ### Status
 
 * Issues
-  * closes #1 - SpaceY Corp (SYC) 0.9.99.0-prerelease `<Articles of Incorporation>` edition
-  * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
-  * closes #3 - 0.9.99.0 Create Documentation
-  * closes #4 - 0.9.99.0 Create Social Media
+  * closes #1 - Coyote Space Industries (CSI) 0.9.99.0-prerelease `<In Transit>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
 
 ---
