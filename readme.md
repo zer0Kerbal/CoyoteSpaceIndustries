@@ -170,6 +170,7 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 [CCF]: https://forum.kerbalspaceprogram.com/index.php?/topic/209541-*/ "Coyote Cargo Freighter (CCF)"
 [CSIT]: https://github.com/zer0Kerbal/CSITools "CSI Tools (CSIT)"
 
+[fiva]: https://www.curseforge.com/kerbal/ksp-mods/free-iva "Free IVA"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
